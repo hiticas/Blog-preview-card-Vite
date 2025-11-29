@@ -1,9 +1,10 @@
 import './App.scss'
+import BlogPreviewCard from './components/BlogPreviewCard/BlogPreviewCard'
 
 function App() {
   return (
       <div className="app">
-        <p>Blog preview card</p>
+        <BlogPreviewCard />
       </div>
   )
 }
