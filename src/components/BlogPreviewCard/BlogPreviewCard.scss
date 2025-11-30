@@ -30,6 +30,11 @@
     margin-bottom: var(--space-20);
     font-size: var(--size-26);
     font-weight: var(--font-bold);
+
+    &:hover {
+      color: var(--color-yellow);
+      cursor: pointer;
+    }
   }
 
   .descriptiopn {
