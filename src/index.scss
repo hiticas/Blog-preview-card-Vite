@@ -5,11 +5,12 @@
   --font-bold: 800;
 
   /* Font sizes */
-  --size-x-large: 24px;
-  --size-large: 20px;
-  --size-medium: 16px;
-  --size-small: 12px;
-  --size-x-small: 8px;
+  --size-26: 26px;
+  --size-24: 24px;
+  --size-20: 20px;
+  --size-16: 16px;
+  --size-12: 12px;
+  --size-8: 8px;
 
   /* Colors */
   --color-yellow: hsl(47, 88%, 63%);
@@ -20,22 +21,24 @@
   --color-secondary: var(--color-gray-500);
 
   /* Backgrounds */
-  --color-background: #F5D04E;
+  --color-primary-background: #F5D04E;
+  --color-primary-darker-background: #F2D052;
 
-  /* Spacing scale */
-  --space-large: 20px;
-  --space-medium: 16px;
-  --space-small: 12px;
+  /* Spacing */
+  --space-20: 20px;
+  --space-16: 16px;
+  --space-12: 12px;
   --space-10: 10px;
+  --space-5: 5px;
   --space-2: 2px;
 
-  /* Border radius scale */
-  --radius-large: 12px;
-  --radius-medium: 8px;
-  --radius-small: 4px;
+  /* Border radius */
+  --radius-12: 12px;
+  --radius-8: 8px;
+  --radius-4: 4px;
 
   /* Component-specific */
-  --card-max-width: 300px;
+  --card-max-width: 400px;
 }
 
 * {
