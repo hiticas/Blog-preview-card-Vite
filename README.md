@@ -1,9 +1,9 @@
-# Frontend Mentor - QR Code Component
+# Frontend Mentor - Blog Preview Card
 
 ## Screenshot
 ![](preview.jpg)
 
-A simple solution to the Frontend Mentor **QR Code Component** challenge.
+A simple solution to the Frontend Mentor **Blog Preview Card** challenge.
 
 ## Live Demo
 - **Solution URL:** https://blog-preview-card-vite.netlify.app/
