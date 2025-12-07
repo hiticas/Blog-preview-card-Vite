@@ -1,13 +1,12 @@
 # Frontend Mentor - Blog Preview Card
 
+## Live Demo
+- **Live URL:** https://blog-preview-card-vite.netlify.app/
+
 ## Screenshot
 ![](preview.jpg)
 
 A simple solution to the Frontend Mentor **Blog Preview Card** challenge.
-
-## Live Demo
-- **Solution URL:** https://blog-preview-card-vite.netlify.app/
-- **Live Site:** https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
 
 ## Built With
 - Vite
