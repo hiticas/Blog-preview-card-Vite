@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog Preview Card
+# Blog Preview Card
 
 ## Live Demo
 - **Live URL:** https://blog-preview-card-vite.netlify.app/
